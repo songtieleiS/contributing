@@ -1,0 +1,2 @@
+# contributing
+contributing for all
